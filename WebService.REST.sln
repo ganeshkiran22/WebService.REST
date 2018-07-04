@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.RESTAPI", "WebServices.RESTAPI\WebServices.RESTAPI.csproj", "{1FF30501-17C2-4D43-8141-05CAE787D61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.RestAPI.Test", "WebServices.RestAPI.Test\WebServices.RestAPI.Test.csproj", "{B8DAF41E-0706-4955-BCD8-7DA41C1D9CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF30501-17C2-4D43-8141-05CAE787D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF30501-17C2-4D43-8141-05CAE787D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF30501-17C2-4D43-8141-05CAE787D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF30501-17C2-4D43-8141-05CAE787D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DAF41E-0706-4955-BCD8-7DA41C1D9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DAF41E-0706-4955-BCD8-7DA41C1D9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DAF41E-0706-4955-BCD8-7DA41C1D9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DAF41E-0706-4955-BCD8-7DA41C1D9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA9EBB46-E6D7-4A53-BA74-3EF7B97AEE14}
+	EndGlobalSection
+EndGlobal
